@@ -5,9 +5,9 @@ Este projeto implementa um sistema de concessão de empréstimos pessoais, com b
 ## Tecnologias Utilizadas
 
 - **Java** 17
-- **Spring Boot** 2.7.x
+- **Spring Boot** 
 - **Spring Web** (REST API)
-- **Maven** (ou Gradle, dependendo da sua configuração)
+- **Maven** 
 - **Postman / cURL** (para testar a API)
 
 ## Regras de Negócio
