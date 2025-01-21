@@ -31,7 +31,7 @@ POST /customer-loans
 Recebe as informações de um cliente e retorna os tipos de empréstimos que ele pode obter.
 
 Exemplo de solicitação:
-
+```
 {
   "age": 26,
   "cpf": "275.484.389-23",
@@ -39,9 +39,9 @@ Exemplo de solicitação:
   "income": 7000.00,
   "location": "SP"
 }
-
+```
 Exemplo de resposta:
-
+```
 {
   "customer": "Vuxaywua Zukiagou",
   "loans": [
@@ -59,10 +59,10 @@ Exemplo de resposta:
     }
   ]
 }
+```
 
+## Origem do Desafio
 
-##Origem do Desafio
-
-Este desafio foi retirado do repositório desafios do Backend BR(https://github.com/backend-br/desafios?tab=readme-ov-file).
+# Este desafio foi retirado do repositório desafios do Backend BR(https://github.com/backend-br/desafios?tab=readme-ov-file).
 
 
