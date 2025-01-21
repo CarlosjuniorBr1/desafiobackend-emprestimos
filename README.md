@@ -63,6 +63,6 @@ Exemplo de resposta:
 
 ## Origem do Desafio
 
-# Este desafio foi retirado do repositório desafios do Backend BR(https://github.com/backend-br/desafios?tab=readme-ov-file).
+ Este desafio foi retirado do repositório desafios do Backend BR(https://github.com/backend-br/desafios?tab=readme-ov-file).
 
 
